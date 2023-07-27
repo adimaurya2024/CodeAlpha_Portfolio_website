@@ -3,7 +3,7 @@ Hi there!! I'm Aditya Maurya. I have designed a portfolio website using my skill
 Thank you !!!
 
 #Here are images that i have used in my project:
-![bubble](https://github.com/adimaurya2024/CodeAlpha_Portfolio_website/assets/115164737/a1ca3b3c-006f-42d2-b557-1c89714ff89a)
+
 ![adi-img](https://github.com/adimaurya2024/CodeAlpha_Portfolio_website/assets/115164737/573194de-9727-45db-8e84-7904fd72b894)
 ![background](https://github.com/adimaurya2024/CodeAlpha_Portfolio_website/assets/115164737/bcbead10-a42f-40fa-a5e2-611559cb592b)
 ![bubble](https://github.com/adimaurya2024/CodeAlpha_Portfolio_website/assets/115164737/82a20511-00c2-45bd-b7e4-a3b8b95b2197)
